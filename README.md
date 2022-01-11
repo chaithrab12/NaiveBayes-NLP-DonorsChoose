@@ -11,10 +11,12 @@ categorical features
 * teacher_prefix
 * project_grade_category
 * school_state
-* clean_categories
-* clean_subcategories
+* categories
+* subcategories
 * 
 numerical features
 
 * price
 * teacher_number_of_previously_posted_projects
+
+project_is_approved  - class label
