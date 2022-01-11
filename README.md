@@ -4,15 +4,17 @@ DonorsChoose is a nonprofit that addresses the education funding gap through cro
 
 Features selected are listed below:
 
-essay
+ * essay
+
 categorical features
 
-teacher_prefix
-project_grade_category
-school_state
-clean_categories
-clean_subcategories
+* teacher_prefix
+* project_grade_category
+* school_state
+* clean_categories
+* clean_subcategories
+* 
 numerical features
 
-price
-teacher_number_of_previously_posted_projects
+* price
+* teacher_number_of_previously_posted_projects
